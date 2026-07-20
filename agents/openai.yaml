@@ -1,0 +1,4 @@
+interface:
+  display_name: "包装作品集图组"
+  short_description: "把单张包装工艺效果图延展为完整作品集级产品展示图组"
+  default_prompt: "Use $packaging-showcase-series to extend this approved packaging render into a coherent portfolio image series."
